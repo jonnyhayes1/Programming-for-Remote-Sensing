@@ -1,11 +1,11 @@
-name: ProgrammingforRemoteSensingFinal
+name: ProgrammingAssignment
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8.8
+  - python=3.7
   - geopandas=0.9.0
   - cartopy=0.18.0
   - notebook=6.2.0
   - rasterio=1.2.0
-prefix: C:\Users\jonat\anaconda3\envs\ProgrammingforRemoteSensingFina
+prefix: C:\Users\jonat\anaconda3\envs\ProgrammingAssignment
