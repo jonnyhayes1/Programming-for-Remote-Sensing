@@ -1,4 +1,4 @@
-#Read Me Programming-for-Remote-Sensing-Project
+#Programming-for-Remote-Sensing-Project
 
 
 2.1 Usage
@@ -40,11 +40,11 @@ Software.
 
 https://opensource.org/licenses/MIT
 
-2.3 Data
+2.9 Data
 The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over the Sierra Nevada area of California.  
 Data was collected from a variety of sources to create the necessary surfaces to perform this analysis. These include the California  state government, USGS, and the California city government.
 
-2.4 Data included: 
+2.10 Data included: 
 The project data was downloaded from USGS using the following Landsat data code: 
 •	L: Landsat Sensor
 •	C: OLI/TIRS combined platform
