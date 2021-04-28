@@ -2,14 +2,20 @@
 
 
 2.1 Usage
+
+
 This tool will use a fire perimeter and use the pre and post fire Landsat images over the Fork Fire to classify the burn severity in the region. Generally, it is advised that post fire images are Landsat 7 or Landsat 8. The pre fire images used were Landsat 8 during this project and this type of imagery is preferred. 
 
 2.2 Inputs
+
+
 1.	Fire Perimeter shapefile
 2.	Study Area Shapefile
 3.	Pre and Post Fire Data placed into separate folders
 
 2.4 Script Descriptions
+
+
 AssignmentScript.py
 This script creates Difference Normalised Burn Ratio Rasters using both the Pre and Post Fire Landsat Imagery. 
 
