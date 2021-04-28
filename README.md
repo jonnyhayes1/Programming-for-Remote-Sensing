@@ -13,23 +13,23 @@ This tool will use a fire perimeter and use the pre and post fire Landsat images
 2.	Study Area Shapefile
 3.	Pre and Post Fire Data placed into separate folders
 
-2.4 Script Descriptions
+2.3 Script Descriptions
 
 
 AssignmentScript.py
 This script creates Difference Normalised Burn Ratio Rasters using both the Pre and Post Fire Landsat Imagery. 
 
-2.6 Requirements:
+2.4 Requirements:
 
 
 Requires Erdas Imagine 2016, Arcpro 2.6, Jupyter Notebook. 
 
-2.7 Getting Help or Reporting an Issue:
+2.5 Getting Help or Reporting an Issue:
 
 
 Please see Section 5 of this ‘How to Guide’ for advice for troubleshooting.
 
-2.8 License:
+2.6 License:
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -52,13 +52,13 @@ Software.
 
 https://opensource.org/licenses/MIT
 
-2.9 Data:
+2.7 Data:
 
 
 The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over the Sierra Nevada area of California.  
 Data was collected from a variety of sources to create the necessary surfaces to perform this analysis. These include the California  state government, USGS, and the California city government.
 
-2.10 Data included: 
+2.8 Data included: 
 
 
 The project data was downloaded from USGS using the following Landsat data code: 
