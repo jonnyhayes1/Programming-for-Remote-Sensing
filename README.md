@@ -62,9 +62,16 @@ Data was collected from a variety of sources to create the necessary surfaces to
 
 
 The project data was downloaded from USGS using the following Landsat data code: 
+
+
 •	L: Landsat Sensor
+
 •	C: OLI/TIRS combined platform
+
 •	08: Landsat 8 
+
 •	Path/ Row: 45033
+
 •	Before Date: 8th of September 2018
+
 •	After Date: Any Date in 2019 can be used
