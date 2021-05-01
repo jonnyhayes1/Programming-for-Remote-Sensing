@@ -1,7 +1,6 @@
 #Programming-for-Remote-Sensing-Project
 
 
-2. Set up/ Installation
 
 2.1 Usage
 
@@ -17,7 +16,9 @@ This tool will use a fire perimeter and use the pre and post fire Landsat images
 6.	Pre and Post Fire Data placed into separate folders
 
 2.4 Script Descriptions
-AssignmentScript.py
+
+
+Coding Submission.py
 This script creates dNBR raster using both the Pre and Post Fire Landsat Imagery. 
 
 
@@ -59,7 +60,9 @@ https://github.com/jonnyhayes1/ProgrammingforRemoteSensing
 2.11 Data
 
 
-The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over Glen County in California.  
+The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over Glen County in California. 
+
+
 
 2.12 Data included: 
 
