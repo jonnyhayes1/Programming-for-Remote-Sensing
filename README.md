@@ -51,7 +51,10 @@ After the environment has been created for the project, the next step is to set 
 
 
 1.7 Data
+
+
 The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over Glen County in California.  
+
 
 1.8 Data included: 
 
