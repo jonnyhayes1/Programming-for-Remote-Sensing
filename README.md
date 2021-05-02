@@ -3,7 +3,7 @@
 2.1 Usage
 
 
-This tool will use a fire perimeter and use the pre and post fire Landsat images over the Chrome 2 Fire to classify the burn severity in the region. Generally, it is advised that post fire images are Landsat 7 or Landsat 8. The pre fire images used were Landsat 8 during this project and this type of imagery is preferred. 
+This code will  use pre and post fire Landsat images over the Chrome 2 Fire to classify the burn severity in the region. Generally, it is advised that pre and post fire images are Landsat 7 or Landsat 8. The images used were Landsat 8 during this project and this type of imagery is preferred. 
 
 
 2.2 Inputs
@@ -23,12 +23,12 @@ This script creates dNBR raster using both the Pre and Post Fire Landsat Imagery
 2.5 Environment Set Up 
 
 
-To first set up the environment you will need to fork the “Programming for Remote Sensing” repository to your own computer. Once this has been completed, the next step is to open the Anaconda Navigator, and click on the “Environments tab”. From here, you will click the import button located on at the bottom of the page. A dialogue box will then open asking you to select an environment.yml file. Navigate to the environment.yml file that was forked from the project repository and click “Import”. This should result in a new environment with the required packages being installed. For troubleshooting advice regarding the environment set up, please see section 5 of this guide.
+To first set up the environment you will need to fork the “Programming for Remote Sensing” repository to your own computer. Once this has been completed, the next step is to open the Anaconda Navigator, and click on the “Environments tab”. From here, you will click the import button located on at the bottom of the page. A dialogue box will then open asking you to select an environment.yml file. Navigate to the environment.yml file that was forked from the project repository and click “Import”. This should result in a new environment with the required packages being installed. For troubleshooting advice regarding the environment set up, please see section 5 of the "How to Guide".
 
 2.6 Jupyter Notebook Set Up 
 
 
-After the environment has been created for the project, the next step is to set up the Jupyter Notebook. It is recommended that you set up a separate folder for the project within Jupyter Notebook to avoid any confusion. The first step is to add all the necessary files for the project into the project area. It is recommended to create separate folders for both pre and post Landsat images, as they will be used separately within the code itself. An example of how I set up the Jupyter Notebook can be seen in figure 1. Once the notebook has been set up correctly, you can begin writing the python script. 
+After the environment has been created for the project, the next step is to set up the Jupyter Notebook. It is recommended that you set up a separate folder for the project within Jupyter Notebook to avoid any confusion. The first step is to add all the necessary files for the project into the project area. It is recommended to create separate folders for both pre and post Landsat images, as they will be used separately within the code itself. An example of how I set up the Jupyter Notebook can be seen in figure 1 of the "How to Guide". Once the notebook has been set up correctly, you can begin writing the python script. 
 
  
 
@@ -67,4 +67,4 @@ The project data was downloaded from USGS using the following Landsat data code:
 •	After Date: Any Date in 2019 can be used
 
 
-For  this project, the Landsat data was clipped using the study area shapefile using the Erdas Imagine  software. This was completed to avoid any processing issues with the size of the Landsat files. This file can be found in the GitHub repository.  
+For  this project, the Landsat data was clipped using the study area shapefile using the Erdas Imagine  software. This was completed to avoid any processing issues with the size of the Landsat files. The study area shapefile can be found in the GitHub repository.  
