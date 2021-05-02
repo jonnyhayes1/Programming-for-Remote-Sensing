@@ -1,4 +1,4 @@
-1. Set Up/Installation
+1.Set Up/Installation
 
 1.1 Usage
 
