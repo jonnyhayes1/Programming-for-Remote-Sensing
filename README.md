@@ -1,6 +1,4 @@
-#Programming-for-Remote-Sensing-Project
-
-
+2. Set Up/Installation
 
 2.1 Usage
 
@@ -15,10 +13,10 @@ This tool will use a fire perimeter and use the pre and post fire Landsat images
 5.	Study Area Shapefile
 6.	Pre and Post Fire Data placed into separate folders
 
+
 2.4 Script Descriptions
 
-
-Coding Submission.py
+Code Submission Final.ipynb
 This script creates dNBR raster using both the Pre and Post Fire Landsat Imagery. 
 
 
@@ -35,7 +33,8 @@ After the environment has been created for the project, the next step is to set 
  
 
 
-2.7 Dependencies 
+2.7 Dependencies
+
 
   - python=3.8.8
   - geopandas=0.9.0
@@ -51,23 +50,15 @@ After the environment has been created for the project, the next step is to set 
   - earthpy 0.9.2
 
 
-2.10 Link to GitHub Repository: 
-
-
-https://github.com/jonnyhayes1/ProgrammingforRemoteSensing
-
-
 2.11 Data
-
-
-The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over Glen County in California. 
-
-
+The data used for this project was collected from the USGS Earth Explorer online platform. This data represents an area over Glen County in California.  
 
 2.12 Data included: 
 
 
 The project data was downloaded from USGS using the following Landsat data code: 
+
+
 •	L: Landsat Sensor
 •	C: OLI/TIRS combined platform
 •	08: Landsat 8 
@@ -76,4 +67,4 @@ The project data was downloaded from USGS using the following Landsat data code:
 •	After Date: Any Date in 2019 can be used
 
 
-
+For  this project, the Landsat data was clipped using the study area shapefile using the Erdas Imagine  software. This was completed to avoid any processing issues with the size of the Landsat files. This file can be found in the GitHub repository.  
